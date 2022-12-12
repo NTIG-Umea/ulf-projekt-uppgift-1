@@ -29,12 +29,9 @@ Utifrån filernas innehåll, klura ut var saker och ting ska placeras.
 project/
     images/
         profile.jpeg
-        logo.svg
     js/
-        menu.js
+        .js
     blog/
-        first.html
-    index.html
-    about.html
-
+    .html
 ```
+

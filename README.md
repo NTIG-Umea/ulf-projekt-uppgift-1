@@ -5,7 +5,7 @@ Först skapar du en mapp där hela projektet ska sparas.
 
 Placera materialet rätt för filerna.
 
-I detta skapar du sedan:
+Studera filernas typ och undersök dokumenten för att ta reda på var filerna ska hamna.
 
 * images
 * js

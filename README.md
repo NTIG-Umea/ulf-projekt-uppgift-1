@@ -11,3 +11,30 @@ Studera filernas typ och undersök dokumenten för att ta reda på var filerna s
 * js
 * css
 
+# Instruktioner
+
+
+## Parprogrammering 
+
+Skriftliga förklaringen finns ovan.
+Fundera ut utifrån filtyp och namn.
+
+## Parsons
+
+Utifrån filernas innehåll, klura ut var saker och ting ska placeras.
+
+## Flödesschema
+
+```
+project/
+    images/
+        profile.jpeg
+        logo.svg
+    js/
+        menu.js
+    blog/
+        first.html
+    index.html
+    about.html
+
+```

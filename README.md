@@ -23,6 +23,8 @@ Fundera ut utifrån filtyp och namn.
 
 Utifrån filernas innehåll, klura ut var saker och ting ska placeras.
 
+Får index_parsons.html
+
 ## Flödesschema
 
 ```

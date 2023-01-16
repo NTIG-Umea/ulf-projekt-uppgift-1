@@ -13,19 +13,24 @@ Studera filernas typ och undersök dokumenten för att ta reda på var filerna s
 
 # Instruktioner
 
+Vad behöver göras?
 
 ## Parprogrammering 
 
 Skriftliga förklaringen finns ovan.
 Fundera ut utifrån filtyp och namn.
 
+Filerna finns i mappen uppgifts-filer.
+
 ## Parsons
 
 Utifrån filernas innehåll, klura ut var saker och ting ska placeras.
 
-Får index_parsons.html
+Får index_parsons.html som start.
 
 ## Flödesschema
+
+Får filerna och en textbeskrivning som nedan.
 
 ```
 project/

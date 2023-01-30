@@ -12,7 +12,7 @@ Nedan följer instruktionerna för varje metod-typ
 Arbeta i par. Ni ska skapa en mappstruktur för projektet.
 Utgå från en ny mapp för hela projektet, var sparar du den på din dator?
 
-Studera filernas typ och undersök dokumentenm fundera ut detta utifrån filtyp och namn.
+Studera filernas typ och undersök dokumenten fundera ut detta utifrån filtyp och namn.
 Filerna finns i mappen uppgifts-filer.
 
 Skapa mappar och placera filerna där de bör finnas.

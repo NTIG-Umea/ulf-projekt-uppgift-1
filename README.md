@@ -3,8 +3,6 @@
 Strukturera upp ett projekt. Placera filer där de bör finnas och motivera/fundera varför.
 Varför gör vi på det sättet?
 
-## Behövs något mer för instruktioner?
-
 # Instruktioner
 
 Nedan följer instruktionerna för varje metod-typ

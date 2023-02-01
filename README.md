@@ -9,26 +9,31 @@ Nedan följer instruktionerna för varje metod-typ
 
 ## Parprogrammering 
 
-Arbeta i par. Ni ska skapa en mappstruktur för projektet.
-Utgå från en ny mapp för hela projektet, var sparar du den på din dator?
+Arbeta i par. Ni ska skapa en mappstruktur för ett webb-projekt. Skapa en ny mapp för hela projektet.
 
-Studera filernas typ och undersök dokumenten fundera ut detta utifrån filtyp och namn.
-Filerna finns i mappen uppgifts-filer.
+Studera filernas typ och namn/funktion.
 
 Skapa mappar och placera filerna där de bör finnas.
 
 ## Parsons
 
-Du ska skapa en mappstruktur för detta projekt.
-Utgå från filerna som finns i mappen uppgifts-filer.
-Utifrån filernas innehåll ska du skapa mappar och placera filerna på rätt plats.
+Du ska skapa en mappstruktur för ett webb-projekt.
+Skapa en ny mapp för hela projektet.
 
-Filen index_parsons.html är din start.
+Studera filernas typ och namn/funktion.
+Skapa mappar och placera filerna där de bör finnas.
+
+Till din hjälp har du filen index_parsons.html, studera den för att få instruktioner om var filer ska finnas.
 
 ## Flödesschema
 
-Utifrån strukturen nedan ska du skapa de filer och mappstrukturer som krävs för ett grundläggande HTML/CSS/JS projekt.
-Skapa även filer i mapparna med filnamn efter god praxis.
+Du ska skapa en mappstruktur för ett webb-projekt.
+Skapa en ny mapp för hela projektet.
+
+Studera filernas typ och namn/funktion.
+Skapa mappar och placera filerna där de bör finnas.
+
+Till din hjälp har du detta flödesschema över strukturen.
 
 ```
 project/
